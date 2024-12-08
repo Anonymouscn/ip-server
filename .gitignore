@@ -1,0 +1,13 @@
+.idea/
+.env*
+storage/logs/*
+storage/tmp/*
+!storage/logs/.gitkeep
+!storage/tmp/.gitkeep
+!.env.example
+!.env.docker
+*.exe
+bin/*
+secret/*
+!secret/cert/.gitkeep
+!secret/key/.gitkeep

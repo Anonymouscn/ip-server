@@ -1,0 +1,3 @@
+server:
+  name: get-my-ip-server
+  port: 8080
